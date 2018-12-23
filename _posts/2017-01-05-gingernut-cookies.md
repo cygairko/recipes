@@ -16,7 +16,7 @@ recipe:
     * 1 tablespoon ground ginger
     * 1 teaspoon baking soda
   directions_markdown: |-
-    1. Pre heat oven to 350°F - change to Celsius.
+    1. Pre heat oven to 180°C.
     2. Cream the butter and the sugar.
     3. Add the golden syrup and the dry ingredients.
     4. Mix everything together and roll into little balls. Put onto a greased baking tray, pressing the balls down very slightly with a fork.
