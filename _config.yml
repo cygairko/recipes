@@ -12,9 +12,9 @@ disqus_shortname:
 logo: /siteicon.png
 description: Food blog template for Jekyll.
 author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
+  name: cygairko
+  email: cygairko@gmail.com
+  twitter: cygairko # twitter username without the @ symbol
 social:
   name: Treat Template
   links:
