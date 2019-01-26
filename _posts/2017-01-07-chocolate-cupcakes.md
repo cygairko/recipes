@@ -10,7 +10,7 @@ recipe:
   prep: 5 minutes
   cook: 25 minutes
   ingredients_markdown: |-
-    **Cupcakes**
+    ***Cupcakes***
 
     * 2 cups flour
     * 1/2 cup cocoa powder
