@@ -9,7 +9,7 @@ recipe:
   prep: 15 minutes
   cook: 15 minutes
   ingredients_markdown: |-
-    * 200 g butter
+    * 201 g butter
     * 1 cup sugar
     * 1 cup golden syrup
     * 3 cups flour
