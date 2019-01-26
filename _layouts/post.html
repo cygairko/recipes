@@ -3,9 +3,12 @@ layout: default
 ---
 <article class="post">
 	{% include post-heading.html post=page post_page=true %}
+
+	{% if page.recipe.featured_image %}
 	<div class="image">
 		<img src="{{ page.featured_image }}" alt="{{ page.title }}">
 	</div>
+	{% endif %}
 
 	<div class="recipe-body">
 		{{ content }}
