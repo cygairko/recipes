@@ -1,11 +1,11 @@
 ---
-date: 2018-01-05
-title: Gingernut Cookies
+date: 2019-01-27
+title: Zitronenspaghetti
 categories:
-  - Cookies
+  - Fisch
 recipe:
-  servings: 60 cookies
-  prep: 15 minutes
+  servings: 3 Portionen
+  prep: 20 Minuten
   cook: 15 minutes
   ingredients_markdown: |-
     * 123 test
