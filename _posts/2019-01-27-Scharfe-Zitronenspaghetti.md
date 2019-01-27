@@ -13,7 +13,7 @@ recipe:
     * 1 Knoblauchzehe(n)
     * 2 Chilischote(n), rote
     * 1 EL Olivenöl, zum Braten
-    * 400 g	Doppelrahmfrischkäse
+    * 400 g Doppelrahmfrischkäse
     * 100 ml Weißwein, trocken
     * 250 ml Gemüsebrühe, schwach gesalzen
     * 2 Lachsfilets
