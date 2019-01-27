@@ -13,7 +13,7 @@ logo: /siteicon.png
 description: Food blog template for Jekyll.
 author:
   name: cygairko
-  email: cygairko@gmail.com
+  email: recipes@alxr.de
   twitter: cygairko # twitter username without the @ symbol
 social:
   name: Treat Template
@@ -23,7 +23,7 @@ social:
 # -----
 # Build
 
-timezone: Etc/UTC
+timezone: Europe/Berlin
 
 paginate: 50
 paginate_path: "/:num/"
