@@ -1,6 +1,6 @@
 ---
 date: 2019-01-27
-title: Zitronenspaghetti
+title: Zitronenpasta
 categories:
   - Fisch
 recipe:
