@@ -1,12 +1,15 @@
 ---
+date:
 title:
 categories:
-date:
+  -
 featured_image:
 recipe:
   servings:
-  prep:
+  prep: Minuten
   cook:
-  ingredients_markdown:
-  directions_markdown:
+  ingredients_markdown: |-
+    -
+  directions_markdown: |-
+    1. 
 ---
