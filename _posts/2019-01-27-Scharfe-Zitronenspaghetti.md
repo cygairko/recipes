@@ -21,7 +21,7 @@ recipe:
     * 2 EL Olivenöl mit Limone
     * Salz und Pfeffer
   directions_markdown: |-
-    1. Die Nudeln in reichlich gut gesalzenem Wasser „al dente“ kochen.
+    1. Die Nudeln in reichlich gut gesalzenem Wasser al dente kochen.
     2. Inzwischen die Zwiebel und den Knoblauch ganz fein würfeln, die Chilischoten längs halbieren, die Trennwände und die Kerne entfernen und in ganz feine Streifen schneiden.
     3. Zwiebel und Knoblauch in Olivenöl glasig dünsten, die Chilischoten dazugeben und ganz kurz mitdünsten. Mit dem Weißwein und der Gemüsebrühe ablöschen und den Frischkäse unterrühren. Zitronensaft und die abgeriebene Schale dazugeben und mit Pfeffer abschmecken.
     4. Salz dürfte nicht mehr notwendig sein, ist aber Geschmacksache.
