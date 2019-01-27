@@ -1,6 +1,6 @@
 ---
 date: 2019-01-27
-title: Scharfe Zitronenspaghetti mit Frischkäse und Lachs
+title: Scharfe Zitronenspaghetti
 categories:
   - Fisch
   - Pasta
