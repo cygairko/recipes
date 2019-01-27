@@ -7,6 +7,7 @@ categories:
 recipe:
   servings: 3-4 Portionen
   prep: 20 Minuten
+  cook: 10 Minuten
   ingredients_markdown: |-
     * 500 g Spaghetti
     * 1 Zwiebel(n)
