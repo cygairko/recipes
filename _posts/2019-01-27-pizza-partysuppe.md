@@ -14,7 +14,7 @@ recipe:
     - 30 g	Tomatenmark
     - 1-2	Paprika
     - 500 g	Champignons
-    - 1 Pkg.	Schmelzkäse, Kräuter
+    - 1 Pkg.	Kräuter-Schmelzkäse
     - 1 Becher	Crème fraîche
     - 500 g	Tomaten, passiert
     - 1 Pkg.	Cabanossi
