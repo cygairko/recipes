@@ -14,16 +14,15 @@ recipe:
     - 120 g 	Reis
     - 200 ml 	Kokosmilch
     - 200 ml 	Gemüsebrühe
-    - 1  	Limette(n), Bio
+    - 1  	Limetten
     - 6 Stiele 	Koriander
     - 60 g 	Cashewnüsse, geröstet und gesalzen
-    - 200 g 	Tomate(n)
+    - 200 g 	Tomaten
     - 600 g 	Hackfleisch, gemischt
     - Salz und Pfeffer
     - Cayennepfeffer
     - 16  	Tacos
     - 150 g 	Crème fraîche
-    - Pflanzenöl, zum Braten
   directions_markdown: |-
     1. Reis, Kokosmilch und Brühe in einen Topf geben und aufkochen. Hitze reduzieren und bei geschlossenem Deckel 10 Min. köcheln lassen. Limette und Koriander waschen und trocknen. Von der Limette die Schale fein abreiben und den Saft auspressen. Koriander hacken. Cashewkerne ebenfalls grob hacken. Alles unter den Reis rühren.
     2. Tomaten grob würfeln.
