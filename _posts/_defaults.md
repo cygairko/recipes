@@ -1,9 +1,9 @@
 ---
-date: 
+date:
 title:
 categories:
   -
-featured_image:
+featured_image: https://re.alxr.de/images/food/name.jpg
 recipe:
   servings: Portionen
   prep: Minuten

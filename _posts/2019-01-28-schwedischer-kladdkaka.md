@@ -4,7 +4,7 @@ title: "Schwedischer Kladdkaka"
 date: "2019-01-28 15:03"
 categories:
   - Kuchen
-featured_image:
+featured_image: https://re.alxr.de/images/food/2019-01-28-schwedischer-kladdkaka.jpg
 recipe:
   servings: 26er Springform
   prep: 20 Minuten
