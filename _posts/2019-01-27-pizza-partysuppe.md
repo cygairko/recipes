@@ -26,9 +26,9 @@ recipe:
   directions_markdown: |-
     1. Rinderhack anbraten, kräftig mit Salz und Pfeffer würzen.
     2. Zwiebel, Knoblauch und Tomatenmark hinzu, kurz anschwitzen, die passierten Tomaten dazu.
-    3. Paprika in kleinen Würfeln und Champignons halbiert hinzugeben.
-    4. Solange köcheln, bis die Paprika gar sind (10 bis 15 Minuten).
-    5. Die restlichen Zutaten hinzugeben und gegebenenfalls nochmal mit Salz und Pfeffer abschmecken.
-    6. Dazu frisches Fladenbrot oder Baguette reichen.
+    3. Paprika in kleinen Würfeln und Champignons halbiert hinzugeben und solange köcheln, bis die Paprika gar sind (10 bis 15 Minuten).
+    4. Die restlichen Zutaten hinzugeben und gegebenenfalls nochmal mit Salz und Pfeffer abschmecken.
+
+    Dazu frisches Fladenbrot oder Baguette reichen.
 
 ---
