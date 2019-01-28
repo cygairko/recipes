@@ -3,7 +3,7 @@ date: 2019-01-27
 title: Pizza Partysuppe
 categories:
   - Eintöpfe
-featured_image: pictures\thomas-tucker-391058-unsplash.jpg
+featured_image: pictures/thomas-tucker-391058-unsplash.jpg
 recipe:
   servings: 3 Portionen
   prep: 30 Minuten
