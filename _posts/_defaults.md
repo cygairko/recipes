@@ -8,8 +8,9 @@ recipe:
   servings: Portionen
   prep: Minuten
   cook:
+  temp:
   ingredients_markdown: |-
-    -
+    *
   directions_markdown: |-
     1.
 ---
