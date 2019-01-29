@@ -9,6 +9,7 @@ recipe:
   servings: 26er Springform
   prep: 20 Minuten
   cook: 20 Minuten
+  temp: 175°C
   ingredients_markdown: |-
     - 100 g Butter
     - 250 g Zucker
