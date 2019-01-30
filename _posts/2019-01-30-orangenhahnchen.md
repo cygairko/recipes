@@ -2,7 +2,7 @@
 title: "Orangenhähnchen"
 date: "2019-01-30 02:33"
 categories:
-  -Fleisch
+  - Fleisch
 featured_image:
 recipe:
   servings: 2-4 Portionen
