@@ -4,7 +4,7 @@ title: "Meatballs"
 categories:
   - Fleisch
   - Pasta
-featured_image: https://re.alxr.de/images/food/2019-04-21-rharbarber-baiser.jpg
+featured_image: https://re.alxr.de/images/food/2019-03-09-meatballs.jpg
 recipe:
   servings: 6-8 Portionen (20 meatballs)
   prep:
