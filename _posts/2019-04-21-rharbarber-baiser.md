@@ -16,14 +16,14 @@ recipe:
     * 1 1/2 TL 	Backpulver
     * 150 g 	Margarine
     * 150 g 	Zucker
-    * 1 Pck. 	Vanillinzucker
+    * 1 Pck. 	Vanillezucker
     * 3  	Eigelb
-    * 2  	Ei(er)
+    * 2  	Eier
 
     **Für den Baiserbelag**
 
     * 3  	Eiweiß
-    * 1 Prise(n) 	Salz
+    * 1 Prise 	Salz
     * 175 g 	Zucker
     * 1 TL 	Zitronensaft
   directions_markdown: |-
