@@ -1,9 +1,10 @@
 ---
 date: 2019-03-09
-title: "Tomaten Feta Dip"
+title: "Überbackene Süßkartoffeln"
 categories:
-  - Saucen
-  - BBQ
+  - Ofengerichte
+  - Hauptgerichte
+  - Beilagen
 featured_image:
 recipe:
   servings: 4
