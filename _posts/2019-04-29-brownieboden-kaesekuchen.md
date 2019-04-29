@@ -34,5 +34,6 @@ recipe:
     3. Die Himbeeren auf dem vorgebackenen Boden verteilen, die Quarkmasse darüber gießen und glatt streichen.
     4. Bei 160° Umluft weitere ca. 55 Minuten backen.
     5. Den Kuchen nicht gleich aus dem Ofen nehmen, sondern den Backofen ausschalten und den Kuchen noch ca. 20 Minuten drin lassen. Dann herausnehmen und in der Form ganz auskühlen lassen.
+
     Am besten schmeckt der Kuchen, wenn er über Nacht kühl gestellt wird. Die Himbeeren sind natürlich beliebig gegen andere Beeren austauschbar. 
 ---
