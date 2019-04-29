@@ -2,7 +2,7 @@
 date: 2019-04-29
 title: "Tomaten - Kokos - Suppe mit Avocado"
 categories:
-  - Suppe
+  - Suppen
 featured_image:
 recipe:
   servings: 3-4 Portionen

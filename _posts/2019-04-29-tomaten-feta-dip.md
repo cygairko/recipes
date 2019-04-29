@@ -3,7 +3,7 @@ date: 2019-04-29
 title: "Tomaten Feta Dip"
 categories:
   - BBQ
-  - Sauce
+  - Saucen
 featured_image:
 recipe:
   servings:
