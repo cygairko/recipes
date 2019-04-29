@@ -11,8 +11,8 @@ recipe:
   cook:
   temp:
   ingredients_markdown: |-
-    * 1 Paket 	Feta-Käse
-    * 200 g 	Frischkäse
+    * 1 Paket Feta-Käse
+    * 200 g Frischkäse
     * 1/2 kleine 	Zwiebel
     * 2  	Knoblauchzehen, nach Geschmack
     * 6  	getrocknete Tomaten, in Öl eingelegt

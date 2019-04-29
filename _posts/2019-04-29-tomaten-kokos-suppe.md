@@ -10,9 +10,9 @@ recipe:
   cook:
   temp:
   ingredients_markdown: |-
-    * 1  	Zwiebel, fein gehackt
-    * 1  	Knoblauchzehe, fein gehackt
-    * 1 große 	Chilischote, grün
+    * 1 Zwiebel, fein gehackt
+    * 1 Knoblauchzehe, fein gehackt
+    * 1 große	Chilischote, grün
     * 2 EL 	Pflanzenöl
     * 500 g 	passierte Tomaten
     * 200 ml 	Gemüsebrühe
