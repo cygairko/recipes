@@ -35,6 +35,9 @@ layout: default
 
 	<div class="recipe-contents">
 		<div class="ingredients">
+
+			{{ page.recipe.ingredients_markdown | markdownify }}
+
 			<h2>Zutaten</h2>
 			{% for ingredient in page.recipe.ingredients %}
 				{% if forloop.first %}<ul>{% endif %}
