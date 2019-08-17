@@ -16,7 +16,11 @@ layout: default
 
 	<ul id="recipe" class="recipe-overview">
 		{% if page.recipe.servings %}
-		<li title="Servings">{% include recipe-icon.html icon="quantity" %}<span>{{ page.recipe.servings }}</span></li>
+		<li title="Servings">
+			{% include recipe-icon.html icon="quantity" %}
+			<input id="servings" maxlength="3" size="1" value="" oninput="changeValue()">
+			<span>{{ page.recipe.servings.text }}</span>
+		</li>
 		{% endif %}
 		{% if page.recipe.prep %}
 		<li title="Prep Time">{% include recipe-icon.html icon="time" %}<span>{{ page.recipe.prep }}</span></li>
