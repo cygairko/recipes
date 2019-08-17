@@ -36,7 +36,7 @@ layout: default
 
 			{% for ingredient in page.recipe.ingredients %}
 				{% if forloop.first %}<ul>{% endif %}
-				<li><span>{{ ingredient.qty }}</span>{{ingredient.name}}</li>
+				<li><span>{{ ingredient.qty }}</span> {{ingredient.name}}</li>
 				{% if forloop.last %}</ul>{% endif %}
 			{% endfor %}
 		</div>
