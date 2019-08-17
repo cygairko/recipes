@@ -38,7 +38,7 @@ layout: default
 			<h2>Zutaten</h2>
 
 			{{ page.recipe.ingredients_markdown | markdownify }}
-			
+
 			{% for ingredient in page.recipe.ingredients %}
 				{% if forloop.first %}<ul>{% endif %}
 				<li><span>{{ ingredient.qty }}</span> {{ ingredient.name }}</li>
@@ -66,4 +66,18 @@ layout: default
 			}
 		});
 	});
+
+	function changeValue() {
+		var inputValue = document.getElementById("myValue").value;
+		// var chocolate = parseFloat(document.getElementById("chocolate").innerText);
+		// document.getElementById("chocolate").innerHTML = (inputValue / 18).toPrecision(2);
+		var list = document.getElementById("listIng");
+		var items = list.getElementsByTagName("span");
+		console.log(list);
+		console.log(items);
+		for (var i = 0; i < items.length; ++i) {
+			console.log(items[i].innerText);
+			items[i].innerHTML = (items[i].innerText * inputValue / 18).toPrecision(2);
+		}
+	}
 </script>
