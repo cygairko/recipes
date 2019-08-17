@@ -18,7 +18,7 @@ layout: default
 		{% if page.recipe.servings %}
 		<li title="Servings">
 			{% include recipe-icon.html icon="quantity" %}
-			<input id="servings" placeholder="{{ page.recipe.servings.size }}" value="{{ page.recipe.servings.size }}" maxlength="3" size="1" onfocus="this.oldvalue = this.value;" oninput="changeValue(this); this.oldvalue = this.value;">
+			<input id="servings" placeholder="{{ page.recipe.servings.size }}" value="{{ page.recipe.servings.size }}" maxlength="3" size="1" oninput="changeValue(this)">
 			<span>{{ page.recipe.servings.text }}</span>
 		</li>
 		{% endif %}
@@ -68,16 +68,10 @@ layout: default
 	// });
 
 	function changeValue(textbox) {
-
-		// var calcValue = (textbox.value == 0)  ? textbox.value : textbox.placeholder;
-
 		var inputValue = document.getElementById("servings").value;
-		// var chocolate = parseFloat(document.getElementById("chocolate").innerText);
-		// document.getElementById("chocolate").innerHTML = (inputValue / 18).toPrecision(2);
 		var list = document.getElementById("listIng");
 		var items = list.getElementsByTagName("span");
 		for (var i = 0; i < items.length; ++i) {
-
 			items[i].innerHTML = +(items[i].title / textbox.placeholder * textbox.value).toFixed(2);
 		}
 	}
