@@ -40,7 +40,7 @@ layout: default
 			{{ page.recipe.ingredients_markdown | markdownify }}
 
 			{% for ingredient in page.recipe.ingredients %}
-				{% if forloop.first %}<ul>{% endif %}
+				{% if forloop.first %}<ul id="listIng">{% endif %}
 				<li><span>{{ ingredient.qty }}</span> {{ ingredient.name }}</li>
 				{% if forloop.last %}</ul>{% endif %}
 			{% endfor %}
