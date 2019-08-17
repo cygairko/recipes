@@ -18,7 +18,7 @@ layout: default
 		{% if page.recipe.servings %}
 		<li title="Servings">
 			{% include recipe-icon.html icon="quantity" %}
-			<input id="servings" placeholder="{{ page.recipe.servings.size }}" value="{{ page.recipe.servings.size }}" maxlength="3" size="1" value="" onfocus="this.oldvalue = this.value;" oninput="changeValue(this); this.oldvalue = this.value;">
+			<input id="servings" placeholder="{{ page.recipe.servings.size }}" value="{{ page.recipe.servings.size }}" maxlength="3" size="1" onfocus="this.oldvalue = this.value;" oninput="changeValue(this); this.oldvalue = this.value;">
 			<span>{{ page.recipe.servings.text }}</span>
 		</li>
 		{% endif %}
@@ -41,7 +41,7 @@ layout: default
 
 			{% for ingredient in page.recipe.ingredients %}
 				{% if forloop.first %}<ul id="listIng">{% endif %}
-				<li><span>{{ ingredient.qty }}</span> {{ ingredient.name }}</li>
+				<li><span title="{{ ingredient.qty }}">{{ ingredient.qty }}</span> {{ ingredient.name }}</li>
 				{% if forloop.last %}</ul>{% endif %}
 			{% endfor %}
 		</div>
@@ -69,7 +69,7 @@ layout: default
 
 	function changeValue(textbox) {
 
-		var calcValue = (textbox.value == 0)  ? textbox.value : textbox.placeholder;
+		// var calcValue = (textbox.value == 0)  ? textbox.value : textbox.placeholder;
 
 		var inputValue = document.getElementById("servings").value;
 		// var chocolate = parseFloat(document.getElementById("chocolate").innerText);
