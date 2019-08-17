@@ -68,6 +68,9 @@ layout: default
 	});
 
 	function changeValue(textbox) {
+
+		var calcValue = (textbox.value == 0)  ? textbox.value : textbox.placeholder;
+
 		var inputValue = document.getElementById("servings").value;
 		// var chocolate = parseFloat(document.getElementById("chocolate").innerText);
 		// document.getElementById("chocolate").innerHTML = (inputValue / 18).toPrecision(2);
