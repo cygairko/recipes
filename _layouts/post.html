@@ -35,7 +35,7 @@ layout: default
 			{{ page.recipe.ingredients_markdown | markdownify }}
 
 			{{#each page.recipe.ingredients_markdown}}
-				<li><span>{{.}}</span>{{name}}</li>
+				<li><span>{{ingredients_markdown.qty}}</span>{{ingredients_markdown.name}}</li>
 			{{/each}}
 		</div>
 
