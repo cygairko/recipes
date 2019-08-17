@@ -35,7 +35,9 @@ layout: default
 			{{ page.recipe.ingredients_markdown | markdownify }}
 
 			{% for ingredient in page.recipe.ingredients %}
-			<li><span>{{ ingredient.qty }}</span>{{ingredient.name}}</li>
+				{% if forloop.first %}<ul>{% endif %}
+				<li><span>{{ ingredient.qty }}</span>{{ingredient.name}}</li>
+				{% if forloop.last %}</ul>{% endif %}
 			{% endfor %}
 		</div>
 
