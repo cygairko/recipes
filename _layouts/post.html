@@ -18,7 +18,7 @@ layout: default
 		{% if page.recipe.servings %}
 		<li title="Servings">
 			{% include recipe-icon.html icon="quantity" %}
-			<input id="servings" value="{{ page.recipe.servings.size }}" maxlength="3" size="1" value="" onfocus="this.oldvalue = this.value;" oninput="changeValue(this); this.oldvalue = this.value;">
+			<input id="servings" placeholder="{{ page.recipe.servings.size }}" value="{{ page.recipe.servings.size }}" maxlength="3" size="1" value="" onfocus="this.oldvalue = this.value;" oninput="changeValue(this); this.oldvalue = this.value;">
 			<span>{{ page.recipe.servings.text }}</span>
 		</li>
 		{% endif %}
