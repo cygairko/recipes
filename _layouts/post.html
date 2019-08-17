@@ -18,7 +18,7 @@ layout: default
 		{% if page.recipe.servings %}
 		<li title="Servings">
 			{% include recipe-icon.html icon="quantity" %}
-			<input id="servings" value="{{ page.recipe.servings.size }}" maxlength="3" size="1" value="" oninput="changeValue()">
+			<input id="servings" placeholder="{{ page.recipe.servings.size }}" maxlength="3" size="1" value="" oninput="changeValue()">
 			<span>{{ page.recipe.servings.text }}</span>
 		</li>
 		{% endif %}
@@ -73,11 +73,8 @@ layout: default
 		// document.getElementById("chocolate").innerHTML = (inputValue / 18).toPrecision(2);
 		var list = document.getElementById("listIng");
 		var items = list.getElementsByTagName("span");
-		console.log(list);
-		console.log(items);
 		for (var i = 0; i < items.length; ++i) {
-			console.log(items[i].innerText);
-			items[i].innerHTML = (items[i].innerText * inputValue / 18).toPrecision(2);
+
 		}
 	}
 </script>
