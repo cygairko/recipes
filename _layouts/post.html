@@ -33,6 +33,10 @@ layout: default
 		<div class="ingredients">
 			<h2>Zutaten</h2>
 			{{ page.recipe.ingredients_markdown | markdownify }}
+
+			{{#page.recipe.ingredients_markdown}}
+				<li><span>{{qty}}</span>{{name}}</li>
+			{{/page.recipe.ingredients_markdown}}
 		</div>
 
 		<div class="directions">
