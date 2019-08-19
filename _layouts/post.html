@@ -34,16 +34,16 @@ layout: default
 	</ul>
 
 	<div class="recipe-contents">
-		<div class="ingredients">
+		<div id="ingredients" class="ingredients">
 			<h2>Zutaten</h2>
 
 			{{ page.recipe.ingredients_markdown | markdownify }}
 
-			{% for ingredient in page.recipe.ingredients %}
+			<!-- {% for ingredient in page.recipe.ingredients %}
 				{% if forloop.first %}<ul id="listIng">{% endif %}
 				<li><span title="{{ ingredient.qty }}">{{ ingredient.qty }}</span> {{ ingredient.txt }}</li>
 				{% if forloop.last %}</ul>{% endif %}
-			{% endfor %}
+			{% endfor %} -->
 		</div>
 
 		<div class="directions">
@@ -69,10 +69,19 @@ layout: default
 
 	function changeValue(textbox) {
 		var inputValue = document.getElementById("servings").value;
-		var list = document.getElementById("listIng");
-		var items = list.getElementsByTagName("span");
-		for (var i = 0; i < items.length; ++i) {
-			items[i].innerHTML = +(items[i].title / textbox.placeholder * textbox.value).toFixed(2);
+
+		var ingredients = document.getElementById("ingredients");
+		var ingItems = ingredients.getElementsByTagName("li");
+		for (var i = 0; i < ingItems.length; ++i) {
+			ingItems[i].innerHTML = ingItems[i].innerHTML.replace(/\d+(\.\d+)?/, (match) => {
+				return +(match / textbox.placeholder * textbox.value);
+			});
 		}
+
+		// var list = document.getElementById("listIng");
+		// var items = list.getElementsByTagName("span");
+		// for (var i = 0; i < items.length; ++i) {
+		// 	items[i].innerHTML = +(items[i].title / textbox.placeholder * textbox.value).toFixed(2);
+		// }
 	}
 </script>
