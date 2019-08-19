@@ -74,7 +74,7 @@ layout: default
 		var ingItems = ingredients.getElementsByTagName("li");
 		for (var i = 0; i < ingItems.length; ++i) {
 			if (!ingItems[i].title) {
-				ingItems[i].title = ingItems[i].innerHTML.match(/^\d+(\.\d+)?/)
+				ingItems[i].title = ingItems[i].innerHTML.match(/^\d+(\.\d+)?/);
 			}
 			ingItems[i].innerHTML = ingItems[i].innerHTML.replace(/^\d+(\.\d+)?/, (match) => {
 				return +(match / textbox.placeholder * textbox.value).toFixed(2);
