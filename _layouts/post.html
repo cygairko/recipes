@@ -73,8 +73,11 @@ layout: default
 		var ingredients = document.getElementById("ingredients");
 		var ingItems = ingredients.getElementsByTagName("li");
 		for (var i = 0; i < ingItems.length; ++i) {
-			ingItems[i].innerHTML = ingItems[i].innerHTML.replace(/\d+(\.\d+)?/, (match) => {
-				return +(match / textbox.placeholder * textbox.value);
+			if (!ingItems[i].title) {
+				ingItems[i].title = ingItems[i].innerHTML.match(/^\d+(\.\d+)?/)
+			}
+			ingItems[i].innerHTML = ingItems[i].innerHTML.replace(/^\d+(\.\d+)?/, (match) => {
+				return +(match / textbox.placeholder * textbox.value).toFixed(2);
 			});
 		}
 
