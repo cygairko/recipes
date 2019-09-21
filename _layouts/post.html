@@ -18,8 +18,12 @@ layout: default
 		{% if page.recipe.servings %}
 		<li title="Servings">
 			{% include recipe-icon.html icon="quantity" %}
+
+			<span>{{ page.recipe.servings }}</span>
+			<!--
 			<input id="servings" placeholder="{{ page.recipe.servings.size }}" value="{{ page.recipe.servings.size }}" maxlength="3" size="1" oninput="changeValue(this)">
 			<span>{{ page.recipe.servings.text }}</span>
+			-->
 		</li>
 		{% endif %}
 		{% if page.recipe.prep %}
