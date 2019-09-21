@@ -12,14 +12,14 @@ recipe:
     * 80 g 	Schalotte(n)
     * 800 ml 	Gemüsefond
     * 4 EL 	Olivenöl
-    * 200 g 	Risottoreis (z.B. Carnaroli, Vialone Nano oder Arborio)
-    * 80 ml 	Wermut, weißer (z.B. Noilly Prat)
-    * 1 	Limette(n), Bio
-    * 	Salz und Pfeffer
-    * 1 Prise(n) 	Zucker
+    * 200 g 	Risottoreis
+    * 80 ml 	Weißwein
+    * 1 Limette
+    * Salz und Pfeffer
+    * 1 Prise Zucker
     * 80 g 	Mascarpone
-    * 10 g 	Butter, kalte (in Stückchen)
-    * 20 g 	Hartkäse, ital., fein gerieben (z.B. Grana Padano oder Parmesan)
+    * 10 g 	kalte Butter
+    * 20 g 	geriebener Parmesan
     * 3 Stiele 	Dill
   directions_markdown: |-
     1. Als erstes den geputzten, gewaschenen und trocken geschleuderten Spinat grob schneiden. In einem Topf den Gemüsefond und in einer Sauteuse das Olivenöl erhitzen. Im Olivenöl fein gewürfelte Schalotten glasig andünsten. Anschließend den Risottoreis hinzugeben und bei mittlerer Hitze etwa 1-2 Minuten mitdünsten lassen. Den Reis löscht man mit dem Wermut ab und lässt ihn ganz verkochen.
