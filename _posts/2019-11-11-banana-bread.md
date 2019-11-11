@@ -10,7 +10,8 @@ recipe:
   cook: 55 Minuten
   temp: 175°C
   ingredients_markdown: |-
-    * 3 kleine Bananen, sehr reif ca. 300 g ohne Schale
+    * 3 kleine Bananen, sehr reif
+    ca. 300 g ohne Schale
     * 120 g weiche Butter
     * 110 g brauner Zucker
     * 2 Eier, M
