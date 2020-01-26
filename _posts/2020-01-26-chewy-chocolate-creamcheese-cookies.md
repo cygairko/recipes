@@ -13,12 +13,12 @@ recipe:
     * 150 g Butter
     * 150 g	Zucker
     * 100 g	Zucker, braun
-    * 1 Pck.	Vanillezucker
+    * 1 Pck. Vanillezucker
     * 200 g	Frischkäse
     * 2	Eier
     * 200 g	Mehl
-    * 50 g	Kakaopulver
-    * 1 TL	Backpulver
+    * 50 g Kakaopulver
+    * 1 TL Backpulver
     * 1 Prise	Salz
     * 250 g	Schokolade, zartbitter, gehackt
   directions_markdown: |-
