@@ -9,8 +9,7 @@ recipe:
   prep: 30 min
   cook: 45 min
   ingredients_markdown: |-
-    **carrot Cake**
-
+    **Carrot cake**
     * 180 g cups carrot, shredded, 2-3 carrots
     * 75 g light brown sugar
     * 105 g powdered sugar
@@ -23,14 +22,13 @@ recipe:
     * ⅛ teaspoon ground nutmeg
 
     **Cheesecake**
-
     * 450 g cream cheese, softened
     * 105 g powdered sugar
     * 2 large eggs
     * 1 teaspoon vanilla extract
     * 115 g sour cream
   directions_markdown: |-
-    1. Preheat the oven to 350˚F (180˚C).
+    1. Preheat the oven to 180˚C.
     2. Make the carrot cake: Shred carrots by hand or in a food processor, then set aside in a small bowl.
     3. In a large bowl, combine brown sugar, powdered sugar, and eggs and whisk until smooth.
     4. Add the oil and whisk to combine.
