@@ -22,9 +22,9 @@ recipe:
     * 1 Prise	Salz
     * 250 g	Schokolade, zartbitter, gehackt
   directions_markdown: |-
-  1. 50 g Schokolade im Wasserbad schmelzen.
-  2. Die Butter mit Zucker, braunem Zucker und Vanilleextrakt schaumig rühren, dann die Schokolade, den Frischkäse und die Eier unterrühren.
-  3. Mehl, Kakao, Backpulver und Salz mischen und die Mehlmischung unter die Buttermasse rühren. Zuletzt die gehackte Zartbitterschokolade unterheben.
-  4. Den Ofen auf 190 °C Ober/Unterhitze vorheizen und 1-2 Bleche mit Backpapier auslegen.
-  5. Mit Hilfe eines Teelöffels kleine Häufchen –mit etwas Abstand- auf die Bleche setzen und im vorgeheizten Ofen 8 - 10 Minuten backen (nicht zu lange, sie sollen weich und „chewy“ bleiben). Nach dem Backen noch 2 - 3 Minuten auf dem Blech ruhen lassen, dann auf einem Kuchengitter erkalten lassen.
+    1. 50 g Schokolade im Wasserbad schmelzen.
+    2. Die Butter mit Zucker, braunem Zucker und Vanilleextrakt schaumig rühren, dann die Schokolade, den Frischkäse und die Eier unterrühren.
+    3. Mehl, Kakao, Backpulver und Salz mischen und die Mehlmischung unter die Buttermasse rühren. Zuletzt die gehackte Zartbitterschokolade unterheben.
+    4. Den Ofen auf 190 °C Ober/Unterhitze vorheizen und 1-2 Bleche mit Backpapier auslegen.
+    5. Mit Hilfe eines Teelöffels kleine Häufchen –mit etwas Abstand- auf die Bleche setzen und im vorgeheizten Ofen 8 - 10 Minuten backen (nicht zu lange, sie sollen weich und „chewy“ bleiben). Nach dem Backen noch 2 - 3 Minuten auf dem Blech ruhen lassen, dann auf einem Kuchengitter erkalten lassen.
 ---
