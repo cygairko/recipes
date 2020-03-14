@@ -3,6 +3,7 @@ date: 2020-01-26
 title: Carrot Cake Cheesecake
 categories:
   - Kuchen
+  - Cheesecake
 featured_image:
 recipe:
   servings: 20 cm Springform
