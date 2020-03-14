@@ -29,7 +29,7 @@ recipe:
     * 180 ml saure Sahne
     * 1 TL Vanilleextrakt
   directions_markdown: |-
-    **Lemon Curd**
+       **Lemon Curd**
     1. Zitronenschale, Zitronensaft, Zucker und Eier in einem kleinen Topf verrühren. Die Butter zugeben und auf mittlerer Stufe unter Rühren erhitzen, bis Spuren des Schneebesens sichtbar bleiben und erste Bläschen an der Oberfläche erscheinen. Vom Herd nehmen und durch ein Sieb in eine weite Schüssel streichen. Mit Klarsichtfolie abdecken (Folie direkt auf die Oberfläche legen) und komplett erkalten lassen.
 
        **Boden**
