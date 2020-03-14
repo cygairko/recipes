@@ -11,12 +11,13 @@ recipe:
   cook: 45-60 Minuten
   temp: 150°C
   ingredients_markdown: |-
-  **Lemon Curd**
-  * 1 TL Zitronenschale, abgerieben
-  * 120 ml Zitronensaft
-  * 100 g Zucker
-  * 3 große Eier
-  * 60 g Butter
+    **Lemon Curd**
+    (evtl. am Vortag vorbereiten)
+    * 1 TL Zitronenschale, abgerieben
+    * 120 ml Zitronensaft
+    * 100 g Zucker
+    * 3 große Eier
+    * 60 g Butter
 
     **Boden**
     * 200 g Butterkekse, zerbröselt
