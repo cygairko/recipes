@@ -3,7 +3,7 @@
 
 title: Lydia and Alex recipes
 url: "https://re.alxr.de"
-baseurl: "https://re.alxr.de"
+baseurl:
 google_analytics_key:
 newsletter_action:
 disqus_shortname:
@@ -75,7 +75,6 @@ exclude:
 
 social_icons:
   - Facebook
-  - Google Plus
   - Instagram
   - LinkedIn
   - Tumblr
