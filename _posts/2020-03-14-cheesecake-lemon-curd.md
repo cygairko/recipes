@@ -11,16 +11,17 @@ recipe:
   cook: 45-60 Minuten
   temp: 150°C
   ingredients_markdown: |-
+  **Lemon Curd**
+  (evtl. am Vortag vorbereiten)
+  * 1 TL Zitronenschale, abgerieben
+  * 120 ml Zitronensaft
+  * 100 g Zucker
+  * 3 große Eier
+  * 60 g Butter
+
     **Boden**
     * 200 g Butterkekse, zerbröselt
     * 100 g Butter, geschmolzen
-
-    **Creme**
-    * 1 TL Zitronenschale, abgerieben
-    * 120 ml Zitronensaft
-    * 100 g Zucker
-    * 3 große Eier
-    * 60 g Butter
 
     **Füllung**
     * 675 g Frischkäse
@@ -29,7 +30,7 @@ recipe:
     * 180 ml saure Sahne
     * 1 TL Vanilleextrakt
   directions_markdown: |-
-    1. Für den Lemon Curd, Zitronenschale, Zitronensaft, Zucker und Eier in einem kleinen Topf verrühren. Die Butter zugeben und auf mittlerer Stufe unter Rühren erhitzen, bis Spuren des Schneebesens sichtbar bleiben und erste Bläschen an der Oberfläche erscheinen. Vom Herd nehmen und durch ein Sieb in eine weite Schüssel streichen. Mit Klarsichtfolie abdecken (Folie direkt auf die Oberfläche legen) und komplett erkalten lassen.
+    1. Für den Lemon Curd Zitronenschale, Zitronensaft, Zucker und Eier in einem kleinen Topf verrühren. Die Butter zugeben und auf mittlerer Stufe unter Rühren erhitzen, bis Spuren des Schneebesens sichtbar bleiben und erste Bläschen an der Oberfläche erscheinen. Vom Herd nehmen und durch ein Sieb in eine weite Schüssel streichen. Mit Klarsichtfolie abdecken (Folie direkt auf die Oberfläche legen) und komplett erkalten lassen.
     2. Alle Zutaten für den Boden mischen, auf den Boden einer Springform (26 cm) pressen, dabei einen etwa 2,5 cm hohen Rand formen.
     3. Die Springform auf der mittleren Schiene bei 175° im heißen Ofen 10 min. backen. Die Temperatur des Backofens auf 150° reduzieren.
     4. Frischkäse und Zucker in einer Schüssel mit den Quirlen des Mixers in etwa 1 - 2 Minuten bei mittlerer Geschwindigkeit cremig rühren. Nun auf niedriger Stufe nacheinander die Eier einrühren. Saure Sahne und Vanilleextrakt unterrühren.
