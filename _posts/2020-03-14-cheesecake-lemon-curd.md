@@ -11,8 +11,7 @@ recipe:
   cook: 45-60 Minuten
   temp: 150°C
   ingredients_markdown: |-
-  **Lemon Curd**
-  evtl. am Vortag vorbereiten
+  **Lemon Curd - evtl. am Vortag**
   * 1 TL Zitronenschale, abgerieben
   * 120 ml Zitronensaft
   * 100 g Zucker
