@@ -12,7 +12,7 @@ recipe:
   temp: 150°C
   ingredients_markdown: |-
   **Lemon Curd**
-  (evtl. am Vortag vorbereiten)
+  evtl. am Vortag vorbereiten
   * 1 TL Zitronenschale, abgerieben
   * 120 ml Zitronensaft
   * 100 g Zucker
